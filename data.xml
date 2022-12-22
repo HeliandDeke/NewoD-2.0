@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <counts>
+        <frct>17</frct>
+    </counts>
+
+    <user_admin>
+        <name>Etkrewde Heliand</name>
+        <avatar>img\photo_2022-03-19_01-36-04.jpg</avatar>
+        <status>В сети</status>
+        <city>Санкт-Петербург</city>
+        <birthday>11.01.2003</birthday>
+        <family_status>Холост</family_status>
+        <subs>5</subs>
+    </user_admin>
+
+    <photos id="0">
+        <img>img\йцу.png</img>
+        <title>Рекурсия</title>
+    </photos>
+
+    <photos id="1">
+        <img>img\214.png</img>
+        <title>Yanfei's smug</title>
+    </photos>
+
+    <photos id="2">
+        <img>img\photo_2022-10-29_18-21-45.jpg</img>
+        <title>Персонаж</title>
+    </photos>
+
+    <post id="0">
+        <title>Торговец Счастья</title>
+        <video/>
+        <img>img\cover-ts.jpg</img>
+        <text>Век пара, празднества и порока.
+
+Конец начнется раньше срока.
+
+Самозванка соберет сломанный меч,
+
+Папа Принц захочет всех сжечь.
+
+Ведьма, оборотень и Зверь.
+
+Словам мертвеца ты не верь.
+
+Тень Легиона восстанет вновь.
+
+Точно, прольется невинных кровь.
+
+Потерянный принц и старый тиран.
+
+Коварство, жестокость и наглый обман.
+
+Восторг, и радость продам я всем.
+
+А звать меня Торговец счастьем.
+
+Рифма не очень, но история хорошая.
+
+Читай-читай. Не пожалеешь.</text>
+    </post>
+
+    <post id="1">
+        <title>Кухулин лучший</title>
+        <video>video/Chad Kuhulin vs Archer rus.mp4</video>
+        <img/>
+        <text/>
+    </post>
+
+    <post id="2">
+        <title>Почему я выбрал ОГНП ножей</title>
+        <video/>
+        <img>img\BIO_TEXT.png</img>
+        <text/>
+    </post>
+
+    <post id="3">
+        <title>Самая лучшая часть Neon White</title>
+        <video/>
+        <img>img\Dominion.png</img>
+        <text/>
+    </post>
+
+    <user_friend id="0">
+        <name>Иван Розенков</name>
+        <avatar>img\photo_2022-09-26_13-13-43.jpg</avatar>
+        <status>offline</status>
+    </user_friend>
+
+    <user_friend id="1">
+        <name>Vitaliy</name>
+        <avatar>img\photo_2022-08-19_10-17-06.jpg</avatar>
+        <status>offline</status>
+    </user_friend>
+
+    <user_friend id="2">
+        <name>Кицунэ</name>
+        <avatar>img\photo_2022-10-17_08-10-16.jpg</avatar>
+        <status>offline</status>
+    </user_friend>
+
+    <user_friend id="3">
+        <name>Шайтан Сеня</name>
+        <avatar>img\photo_2022-10-07_17-49-16.jpg</avatar>
+        <status>offline</status>
+    </user_friend>
+
+    <user_friend id="4">
+        <name>Doctor Von Lion</name>
+        <avatar>img\photo_2022-03-31_21-18-55.jpg</avatar>
+        <status>offline</status>
+    </user_friend>
+
+    <user_friend id="5">
+        <name>DooBoDoom🦉</name>
+        <avatar>img\photo_2022-08-22_11-36-39.jpg</avatar>
+        <status>offline</status>
+    </user_friend>
+
+    <user_friend id="6">
+        <name>Рост</name>
+        <avatar>img\photo_2022-08-10_01-19-57.jpg</avatar>
+        <status>online</status>
+    </user_friend>
+
+    <user_friend id="7">
+        <name>Weathered</name>
+        <avatar>img\photo_2022-07-24_17-13-23.jpg</avatar>
+        <status>online</status>
+    </user_friend>
+
+    <user_friend id="8">
+        <name>Nik0R0bin</name>
+        <avatar>img\photo_2022-10-07_13-18-32.jpg</avatar>
+        <status>online</status>
+    </user_friend>
+
+    <user_friend id="9">
+        <name>和宏高梁</name>
+        <avatar>img\photo_2022-08-20_09-14-10.jpg</avatar>
+        <status>online</status>
+    </user_friend>
+
+    <user_friend id="10">
+        <name>Zaur</name>
+        <avatar>img\photo_2022-08-31_12-40-40.jpg</avatar>
+        <status>online</status>
+    </user_friend>
+
+    
+
+
+    
+<user_friend id="17"><avatar>https://m.media-amazon.com/images/I/41d6C5vFmOL._AC_SY780_.jpg</avatar><name>Hin</name><status>offline</status></user_friend></root>
